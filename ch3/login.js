@@ -7,4 +7,4 @@ if (pwdcheck != realpwd) {
 } else {
     pwdresult = ("password ถูกต้อง")
 }
-console.log(pwdresult)
+console.log(pwdresult) // test edit
